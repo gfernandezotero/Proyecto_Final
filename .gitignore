@@ -1,0 +1,14 @@
+__pycache__
+.env
+.learn
+data/*.*
+src/accidentes_usa.db
+models/model_randomforestclasiffier_42_con_scal.sav
+models/model_randomforestclasiffier_42_sin_scal.sav
+models/model_decisiontree_42_con_scal.sav
+models/model_regresionlogistic_42_con_scal.sav
+models/model_SVCclasiffier_42_con_scal.sav
+models/model_xgbc_42_con_scal.sav
+models/modelo_RN_Scal.pkl
+data/raw/Tabla_Opt.xlsx
+data/raw/accidents/US_Accidents_March23.csv
