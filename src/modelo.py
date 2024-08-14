@@ -4,7 +4,7 @@ from pickle import load
 import base64
 
 # Cargar el modelo
-model_path = "../models/model_randomforestclasiffier_42_sin_scal.joblib"
+model_path = "../models/model_randomforestclasiffier_42_sin_scal.sav"
 with open(model_path, 'rb') as f:
     model = load(f)
 
